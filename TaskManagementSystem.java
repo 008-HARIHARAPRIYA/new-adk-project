@@ -62,7 +62,7 @@ public class TaskManagementSystem {
         System.out.println("5. Delete Task");
         System.out.println("6. Search Tasks");
         System.out.println("7. View Statistics");
-        System.out.println("8. Close");
+        System.out.println("8. Exit");
         System.out.println("========================================");
     }
 
